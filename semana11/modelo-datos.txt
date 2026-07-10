@@ -1,0 +1,32 @@
+Entidad 1: Reporte Comunitario
+ 
+Campos principales:
+ 
+-  id : Identificador único del reporte
+​
+-  titulo : Resumen corto del problema
+​
+-  descripcion : Detalles completos de la situación
+​
+-  ubicacion : Lugar donde ocurre
+​
+-  fecha : Fecha y hora del reporte
+​
+-  estado : Si está pendiente, en proceso o resuelto
+ 
+Propósito: Guardar toda la información de los problemas, sugerencias o emergencias que reportan los vecinos para darles seguimiento.
+Entidad 2: Usuario
+ 
+Campos principales:
+ 
+-  id : Identificador único
+​
+-  nombre : Nombre completo
+​
+-  correo : Correo electrónico de contacto
+​
+-  rol : Si es ciudadano, coordinador o administrador
+​
+-  contraseña : Clave de acceso protegida
+ 
+Propósito: Registrar quién usa la plataforma, controlar sus permisos y saber quién hace cada acción.

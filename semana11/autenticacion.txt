@@ -1,0 +1,5 @@
+El login es el proceso que verifica quién eres antes de darte acceso a la aplicación: pide tus datos de acceso para confirmar que eres un usuario registrado y autorizado.
+ 
+Algunas rutas deben estar protegidas porque contienen información sensible o permiten modificar datos importantes; si cualquiera pudiera acceder a ellas, se podrían borrar, cambiar o robar registros de la comunidad.
+ 
+Nunca debes exponer públicamente contraseñas, números de documento, direcciones privadas, datos médicos o información confidencial de las personas, para evitar riesgos de seguridad y violación de la privacidad.

@@ -1,0 +1,9 @@
+La interfaz será sencilla y fácil de usar para personas sin experiencia en tecnología:
+ 
+- Formulario para crear una causa: En la parte superior tendrá espacios para escribir el título, explicar la situación, agregar la ubicación y adjuntar fotos si es necesario. Incluirá un botón claro que diga "Enviar reporte".
+​
+- Vista de causas disponibles: Abajo se mostrará una lista con todos los reportes registrados, ordenados por fecha o urgencia. Cada uno mostrará su título, ubicación y estado actual.
+​
+- Botón para apoyar: Junto a cada reporte habrá un botón que diga "Apoyar este reporte", para que los vecinos se sumen a la solicitud.
+​
+- Contador de apoyos: Al lado del botón se verá un número que indica cuántas personas ya han apoyado ese reporte, para mostrar su importancia.
