@@ -1,0 +1,14 @@
+Claro, aquí va una explicación corta de cada concepto, de 2 a 3 líneas:
+
+**Repositorio:**
+Es el lugar donde se guarda todo el proyecto, incluyendo archivos, carpetas y el historial de cambios.
+Permite organizar el trabajo y tener control sobre las versiones del proyecto.
+
+**Commit:**
+Es una acción que guarda los cambios realizados en el proyecto en un momento específico.
+Funciona como una “foto” del avance, con un mensaje que explica qué se modificó.
+
+**Push:**
+Es el comando que envía los commits del repositorio local hacia un repositorio remoto, como GitHub.
+Sirve para subir los cambios y compartirlos con otras personas o respaldarlos en línea.
+
