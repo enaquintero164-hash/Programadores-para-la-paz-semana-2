@@ -1,0 +1,20 @@
+¿Qué hace esta ruta?
+ 
+Esta es una ruta de tipo POST en Express, que escucha peticiones hacia la dirección  /reporte :
+ 
+1. Recibe un mensaje que el usuario envía dentro del cuerpo de la solicitud ( req.body.mensaje ).
+​
+2. Guarda ese valor en una variable para procesarlo.
+​
+3. Devuelve una respuesta en formato JSON confirmando que recibió el reporte, y devuelve el mismo mensaje que se envió.
+Como es una ruta POST, no funciona solo escribiendo la dirección en el navegador, ya que está diseñada para recibir datos, no solo para leerlos.
+ 
+¿Para qué podría servir en una aplicación comunitaria?
+ 
+Es muy útil para crear sistemas donde las personas envían información:
+ 
+- Permite que los vecinos reporten problemas: daños en vías, falta de servicios, emergencias o ideas para mejorar el barrio.
+​
+- Sirve como un formulario seguro para guardar sugerencias, denuncias o solicitudes de ayuda, sin que la información se pierda.
+​
+- Facilita que los organizadores reciban todos los reportes en un solo lugar para revisarlos y darles respuesta.
