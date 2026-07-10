@@ -1,0 +1,12 @@
+¿Qué evento activa el flujo?
+ 
+Cuando se guarda y confirma un reporte nuevo en el sistema.
+ 
+¿Qué mensaje se envía a Telegram?
+ 
+⚠️ Nuevo reporte recibido
+Se ha registrado una solicitud de la comunidad. Revisa los detalles en la plataforma para darle seguimiento.
+ 
+¿Qué información no se debe enviar por seguridad?
+ 
+Nombres completos, números de documento de identidad, direcciones exactas privadas, datos de contacto sensibles o contraseñas.

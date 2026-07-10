@@ -1,0 +1,7 @@
+1. Como ciudadano quiero registrar un reporte de emergencia para que el equipo de veeduría lo atienda rápido.
+​
+2. Como ciudadano quiero adjuntar fotos o ubicación en mi reporte para que se entienda mejor el problema.
+​
+3. Como coordinador quiero recibir un aviso cuando se registre un reporte nuevo para revisarlo.
+​
+4. Como miembro del equipo quiero ver el estado de todos los reportes para dar seguimiento.

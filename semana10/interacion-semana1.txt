@@ -1,0 +1,19 @@
+¿Qué 2 tareas harías primero?
+ 
+- Registrar reportes de emergencia.
+​
+- Recibir avisos de reportes nuevos.
+ 
+¿Por qué son las más importantes?
+ 
+Porque permiten que la comunidad reporte problemas urgentes y que el equipo se entere de inmediato para actuar. Sin esto, el sistema no cumple su objetivo principal de ayudar rápido.
+ 
+¿Qué significa que una tarea esté "terminada"?
+ 
+- Funciona correctamente y hace lo que promete.
+​
+- Fue probada y no tiene errores graves.
+​
+- Está guardada y registrada en el repositorio Git.
+​
+- Cumple con lo que pidió la historia de usuario.
