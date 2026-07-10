@@ -1,0 +1,8 @@
+Saber usar la terminal es importante para un desarrollador porque le permite moverse fácilmente entre las carpetas y archivos de un proyecto.
+Con comandos como `cd`, `ls` y `pwd` puede ubicar rápidamente dónde está trabajando.
+También facilita crear, renombrar, mover o eliminar archivos sin depender de la parte gráfica del computador.
+Esto ayuda a mantener el proyecto mejor organizado y ahorrar tiempo.
+Además, muchas herramientas de programación funcionan desde la terminal, como Git, Node.js o Python.
+Por eso, dominarla mejora la productividad y hace el trabajo más ágil.
+También es útil cuando se trabaja en servidores o entornos remotos donde no hay interfaz visual.
+En resumen, la terminal es una herramienta básica que ayuda a trabajar de forma más ordenada, rápida y profesional.
