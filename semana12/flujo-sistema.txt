@@ -1,0 +1,6 @@
+1. Una persona accede a la plataforma y crea una nueva causa, escribiendo su título, descripción y objetivo.
+2. El sistema guarda toda la información de la causa en la base de datos de forma segura.
+3. Otros miembros de la comunidad pueden ver la causa y registrar su apoyo con su nombre y datos mínimos.
+4. El sistema cuenta automáticamente el número total de apoyos recibidos para esa causa.
+5. Cuando se alcanza el número mínimo de apoyos, el sistema genera un documento PDF con todos los datos de la causa y la lista de personas que apoyan.
+6. El usuario puede descargar el PDF para presentarlo ante las autoridades correspondientes.

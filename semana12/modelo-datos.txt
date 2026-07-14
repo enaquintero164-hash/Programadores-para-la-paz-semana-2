@@ -1,0 +1,27 @@
+Entidad 1: Causa
+ 
+Sirve para guardar toda la información de cada iniciativa o petición que se registre.
+Campos:
+ 
+-  id : Código único que identifica cada causa.
+​
+-  titulo : Nombre breve de la causa.
+​
+-  descripcion : Explicación detallada de lo que se solicita.
+​
+-  fecha_creacion : Día y hora en que se creó la causa.
+​
+-  objetivo_apoyos : Cantidad mínima de apoyos necesarios.
+ 
+Entidad 2: Apoyo
+ 
+Sirve para registrar cada respaldo que recibe una causa, sin guardar datos innecesarios.
+Campos:
+ 
+-  id : Código único de cada registro de apoyo.
+​
+-  causa_id : Enlace al código de la causa que se está apoyando.
+​
+-  nombre : Nombre de la persona que apoya.
+​
+-  fecha_apoyo : Día en que se registró el apoyo.

@@ -1,0 +1,3 @@
+Evento que activa la automatización: Se registran más de 50 apoyos en una causa.
+Mensaje que se envía por Telegram: "¡La causa [título de la causa] ya cuenta con más de 50 respaldos!"
+Información que NO se debe enviar por seguridad: Números de identificación, teléfonos, direcciones, correos electrónicos ni cualquier otro dato personal de los usuarios.
